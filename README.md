@@ -17,7 +17,7 @@
 ## 如何使用：
 
 1.  **下載與安裝：**
-    直接下載 [NPG_Align](https://github.com/archsean2002/Unity-NPG-Align/archive/main.zip) 並將其導入您的 Unity 專案。
+    直接下載 [NPG_Align](https://github.com/LunarLunar/Unity-NPG-Align/archive/main.zip) 並將其導入您的 Unity 專案。
 
 2.  **開啟工具視窗：**
     在 Unity Editor 中，點擊菜單欄的 `NPG` -> `Open Align Window` 即可開啟 NPG Align 工具視窗。
@@ -78,7 +78,7 @@ For those struggling with object arrangement and alignment in Unity! NPG Align i
 ## How to Use:
 
 1.  **Download & Installation:**
-    Directly download [NPG_Align](https://github.com/archsean2002/Unity-NPG-Align/archive/main.zip) and import it into your Unity project.
+    Directly download [NPG_Align](https://github.com/LunarLunar/Unity-NPG-Align/archive/main.zip) and import it into your Unity project.
 
 2.  **Open Tool Window:**
     In the Unity Editor, click on the menu bar `NPG` -> `Open Align Window` to open the NPG Align tool window.
